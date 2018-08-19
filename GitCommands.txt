@@ -1,1 +1,14 @@
+#The very first command is to get a clone of repository to your local machine. With this command it will download the complete repository
+# to the local machine
 git clone <url of repository>
+
+#To stage a file
+git add <file name>
+
+#Commit to local repository
+git commmit -m <commit message>
+
+#Push the change to Remote Repository
+git push
+
+
